@@ -117,7 +117,7 @@
         if (isset($_GET['plan'])) {
             switch ($_GET['plan']) {
                 case 1: $planText = "YogASMR Online"; $price = 199.00; break;
-                case 2: $planText = "YogASMR day Workshop"; $price = 199.00; break;
+                case 2: $planText = "YogASMR day Workshop"; $price = 3499.00; break;
                 case 3: $planText = "YogASMR Stress Release"; $price = 4000.00; break;
                 case 4: $planText = "YogASMR Emotional Healing"; $price = 4000.00; break;
                 case 5: $planText = "Corporate Day Retreat"; $price = 4000.00; break;
